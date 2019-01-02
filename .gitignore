@@ -1,6 +1,7 @@
 .DS_Store
 node_modules
 /dist
+/the1812.github.io
 
 # local env files
 .env.local
